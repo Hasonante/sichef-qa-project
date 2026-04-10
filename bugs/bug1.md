@@ -24,6 +24,7 @@ iPad / iPhone
 
 ## Evidencias
 ![iPad](../evidencias/Bug_1_ipad_antecedentes.jpeg)
+[Ver vídeo](https://drive.google.com/file/d/https://drive.google.com/file/d/1Wf1weZRPIJK5Q-zmFnwwqFXaEF9Bjwli/view?usp=drive_link/view)
 ![iPad](../evidencias/bug_1_ipad_antecedentes.mp4)
 ![iPhone](../evidencias/Bug_1_iphone_antecedentes.jpeg)
 ![iPhone](../evidencias/bug_1_iphone_antecedentes.mp4)
