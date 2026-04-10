@@ -23,12 +23,12 @@ Alta
 iPad / iPhone
 
 ## Evidencias
-![iPad](../evidencias/bug1_ipad_antecedentes.png)
-![iPad](../evidencias/bug1_ipad_antecedentes.mp4)
-![iPhone](../evidencias/bug1_iphone_antecedentes.png)
-![iPhone](../evidencias/bug1_iphone_antecedentes.mp4)
-![iPad](../evidencias/bug1_ipad_datos.png)  
-![iPhone](../evidencias/bug1_iphone_error_sinc.png)
-![iPad](../evidencias/bug1_ipad_error_duplicado.mp4)  
-![iPhone](../evidencias/bug1_iphone_error_duplicado.mp4)
+![iPad](../evidencias/Bug_1_ipad_antecedentes.png)
+![iPad](../evidencias/bug_1_ipad_antecedentes.mp4)
+![iPhone](../evidencias/Bug_1_iphone_antecedentes.png)
+![iPhone](../evidencias/bug_1_iphone_antecedentes.mp4)
+![iPad](../evidencias/Bug_1_ipad_datos.png)  
+![iPhone](../evidencias/Bug_1_iphone_error_sinc.png)
+![iPad](../evidencias/bug_1_ipad_error_duplicado.mp4)  
+![iPhone](../evidencias/bug_1_iphone_error_duplicado.mp4)
 
