@@ -23,6 +23,7 @@ Alta
 iPad / iPhone
 
 ## Evidencia
+</> Markdown
 ![iPad](../evidencias/bug1_ipad_antecedentes.png)
 ![iPad](../evidencias/bug1_ipad_antecedentes.mp4)
 ![iPhone](../evidencias/bug1_iphone_antecedentes.png)
